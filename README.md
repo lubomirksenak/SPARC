@@ -1,5 +1,12 @@
 # SPARC
-Speckle Processing and Radar Classification
+**S**peckle **P**rocessing **A**nd **R**adar **C**lassification
+
+
+⚠️ This repository is currently under development.
+
+The code and documentation are being prepared.  
+More details will be available soon.
+
 
 ## 📬 Contact
 
