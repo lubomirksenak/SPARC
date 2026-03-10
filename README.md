@@ -12,5 +12,5 @@ More details will be available soon.
 
 For questions or collaboration, contact:  
 **Dr. Ľubomír Kseňak**  
-Technical university of Košice, Slovakia 
+Technical university of Košice, Slovakia  
 lubomir.ksenak@tuke.sk
