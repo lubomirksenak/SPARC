@@ -22,7 +22,7 @@ The workflow combines:
 
 The scripts is implemented in **Python** 
 
-![image]("https://github.com/user-attachments/assets/7c0facf6-21ae-4370-9323-21c6434a3a87")
+![image]("https://github.com/user-attachments/assets/922b90c8-6eeb-498b-974e-5c6684e06294")
 
 Figure - Comparison of best speckle filters per classification model and polarization for AOI Urban (Sentinel-1, 11 October 2024)
 
