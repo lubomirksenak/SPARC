@@ -1,10 +1,7 @@
 # SPARC
 **S**peckle **P**rocessing **A**nd **R**adar **C**lassification
 
-⚠️ This repository is currently under development.
-
-The code and documentation are being prepared.  
-More details will be available soon
+⚠️ This repository is currently under development. The code and documentation are being prepared. More details will be available soon. ⚠️
 
 This repository contains the code and supporting materials used in the study:
 **"Terrain-dependent Effects of SAR Speckle Filtering on Land Cover Classification Using Sentinel-1"** on adress: (TBA after article acceptance).
