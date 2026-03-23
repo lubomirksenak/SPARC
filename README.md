@@ -26,13 +26,9 @@ The scripts is implemented in **Python**
 
 Figure - Comparison of best speckle filters per classification model and polarization for AOI Urban (Sentinel-1, 11 October 2024)
 
-## Study scope
+## 🧠 Study scope
 
 According to the manuscript, the study evaluates eight speckle filtering algorithms across five terrain types using Sentinel-1 GRD data, with classification tested under VV, VH, and dual-polarization configurations. The analysis uses repeated balanced sampling and reports OA, F1, and Cohen’s kappa together with PSNR, MSE, SSIM, and ENL.
-
-## 🔍 Description
-
-SPARC provides an experimental workflow for evaluating how SAR speckle filtering influences binary land-cover classification using Sentinel-1 GRD imagery. The repository focuses on five contrasting areas of interest in eastern Slovakia: mountain, forest, urban, cropland, and water.
 
 ## 🛰️ Data Sources
 
