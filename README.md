@@ -32,10 +32,10 @@ SPARC provides an experimental workflow for evaluating how SAR speckle filtering
 
 ## 🛰️ Data Sources
 
-- **Sentinel-1 GRD (IW mode, VV/VH polarization)** (Copernicus Programme, accessed via Copernicus Browser / Sentinel Hub API)
-- **ESA WorldCover 2021** (European Space Agency, accessed via Microsoft Planetary Computer STAC API using pystac-client)
-- **Copernicus DEM GLO-30** (Copernicus Programme, accessed via Microsoft Planetary Computer STAC API using pystac-client)
-- **Optional local GeoTIFF inputs** (generated within this study workflow)
+- **Sentinel-1 GRD (IW mode, VV/VH polarization)** - Copernicus Programme (via Copernicus Data Space Ecosystem / Sentinel Hub API
+- **ESA WorldCover 2021** - European Space Agency (via Microsoft Planetary Computer STAC API using pystac-client)
+- **Copernicus DEM GLO-30** - Copernicus Programme (via Microsoft Planetary Computer STAC API using pystac-client)
+- **Optional local GeoTIFF inputs** - generated within this study workflow
 
 ## ⚙️ Methodology Overview
 
