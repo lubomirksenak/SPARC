@@ -62,7 +62,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🔗 Citation
 
 If you use this script or data in your research, please cite the corresponding publication:
-- Kseňak, Ľ.; Bartoš, K.; Pukanská, K. Terrain-dependent Effects of SAR Speckle Filtering on Land Cover Classification Using Sentinel-1 (TBA after article acceptance)
+- Kseňak, Ľ.; Pukanská, K.; Bartoš, K. Terrain-Dependent Effects of SAR Speckle Filtering on Land Cover Classification Using Sentinel-1. Geomatics 2026, 6, 53. https://doi.org/10.3390/geomatics6030053
 
 ## 📬 Contact
 
